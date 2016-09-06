@@ -1,3 +1,13 @@
 h1 {color: red;}
+body{background-color:gold}
 h1 {text-align: center;}
 img {display: block;margin-left: auto;margin-right: auto;}
+@import 'https://fonts.googleapis.com/css?family=Bree+Serif|Indie+Flower';
+h1{color:red;background:skyblue;border:30px dashed black;padding:50px;margin:30px;width:px}
+p{font-family: 'Indie Flower', cursive;}
+h1{font-family: 'Bree Serif', serif;}
+p {display: inline;}
+img {display: blocks;}
+li {display: block;}
+p{text-align: center}
+p{color:red;background:skyblue;border:30px dashed black;padding:50px;margin:30px;width:px}
