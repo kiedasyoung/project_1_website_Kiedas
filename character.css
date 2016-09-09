@@ -1,14 +1,12 @@
 body{
   background-color: lightblue;
 }
-h1{
-  color: black;
+h1  {
   text-align: center;
-  color:red;
-  background: gray;
+  color: orange;
+  background: yellow;
   border:30px dashed black;
   padding:50px;
   margin:30px;
   width:px;
-
-}
+  }
