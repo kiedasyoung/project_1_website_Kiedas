@@ -1,14 +1,14 @@
-body {
-  background-color:lightblue;
+body{
+  background-color: lightblue;
 }
-h1 {
-  color: red;
+h1{
+  color: black;
   text-align: center;
   color:red;
-  background:skyblue;
+  background: gray;
   border:30px dashed black;
   padding:50px;
   margin:30px;
   width:px;
-  font-family: 'Bree Serif', serif;
+
 }
