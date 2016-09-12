@@ -10,12 +10,11 @@ h1  {
   margin:30px;
   width:px;
   }
-p {
-  text-align: center;
+p {  text-align: center;
   color: blue;
   background: yellow;
-  border: black;
-  padding: 50xp;
-  margin: 30xp
-  width:
+  border:30px dashed black;
+  padding:50px;
+  margin:30px;
+  width:px;
 }
