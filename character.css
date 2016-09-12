@@ -1,4 +1,4 @@
-body{
+body {
   background-color: lightblue;
 }
 h1  {
@@ -10,3 +10,12 @@ h1  {
   margin:30px;
   width:px;
   }
+p {
+  text-align: center;
+  color: blue;
+  background: yellow;
+  border: black;
+  padding: 50xp;
+  margin: 30xp
+  width:
+}
