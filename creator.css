@@ -1,0 +1,21 @@
+body{
+  background-color: red;
+}
+h1  {
+  text-align: center;
+  color: skyblue;
+  background: yellow;
+  border:30px dashed black;
+  padding:50px;
+  margin:30px;
+  width:px;
+}
+p{
+  text-align: center;
+  color: skyblue;
+  background: yellow;
+  border:30px dashed black;
+  padding:50px;
+  margin:30px;
+  width:px;
+}
