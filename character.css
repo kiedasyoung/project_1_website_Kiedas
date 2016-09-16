@@ -10,11 +10,15 @@ h1  {
   margin:30px;
   width:px;
   }
-p {  text-align: center;
+p {
+  text-align: center;
   color: blue;
   background: yellow;
   border:30px dashed black;
   padding:50px;
   margin:30px;
   width:px;
+}
+img{
+  text-align: center;
 }
